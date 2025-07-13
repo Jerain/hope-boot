@@ -52,11 +52,11 @@
         <pagehelper.spring.boot.starter.version>1.2.3</pagehelper.spring.boot.starter.version>
         <druid.version>0.2.26</druid.version>
         <fastjson.version>1.2.32</fastjson.version>
-        <shiro.spring.version>1.4.0</shiro.spring.version>
+        <shiro.spring.version>2.0.5</shiro.spring.version>
         <shiro.redis.version>3.1.0</shiro.redis.version>
         <thymeleaf.extras.shiro.version>2.0.0</thymeleaf.extras.shiro.version>
         <nekohtml.version>1.9.22</nekohtml.version>
-        <commons.lang3.version>3.7</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <kaptcha.version>2.3.2</kaptcha.version>
         <springfox.swagger2.version>2.8.0</springfox.swagger2.version>
         <springfox.swagger.ui.version>2.8.0</springfox.swagger.ui.version>
